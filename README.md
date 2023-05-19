@@ -1,3 +1,9 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Generic badge](https://img.shields.io/badge/Status-Alpha-red.svg)]()
+[![GPLv3 license](https://img.shields.io/badge/License-Apache-purple.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/renanramonh)
+
+
 # jsonsort
 
 The jsonsort is a command-line tool written in Go that allows you to sort JSON files based on keys. It provides a simple and efficient way to sort JSON data.
